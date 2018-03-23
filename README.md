@@ -1,2 +1,2 @@
-# 23demarzo
-clase seminario de gráfica
+# 16marzo
+seminario de gráfica computacional 2018
